@@ -1,0 +1,29 @@
+{
+  "status": "STAGED_VERIFIED",
+  "name": "ATM10-8.2-TW-R7.1-SERVER-RESOURCEPACK-ATTRIBUTED.zip",
+  "bytes": 17791484,
+  "sha1": "6319bb14118ba3802fd3122a34f84c496025a7f1",
+  "sha256": "62f5ad9e9f07d3db49b996a5139963d0b195ed2b958fd05e746bfab6c902d7a5",
+  "replaced_by_file": {
+    "assets/industrialforegoing/lang/zh_tw.json": {
+      "latex": 13,
+      "dry_rubber": 5
+    },
+    "assets/industrialforegoing/patchouli_books/industrial_foregoing/zh_tw/entries/basics/fluid_extractor.json": {
+      "latex": 2,
+      "dry_rubber": 0
+    },
+    "assets/industrialforegoing/patchouli_books/industrial_foregoing/zh_tw/entries/basics/latex.json": {
+      "latex": 1,
+      "dry_rubber": 1
+    },
+    "assets/industrialforegoing/patchouli_books/industrial_foregoing/zh_tw/entries/basics/latex_processing_unit.json": {
+      "latex": 2,
+      "dry_rubber": 1
+    }
+  },
+  "old_zip_retained": true,
+  "client_language": "zh_tw",
+  "no_gameplay_changes": true,
+  "server_still_unchanged": true
+}

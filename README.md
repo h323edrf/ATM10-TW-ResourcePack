@@ -4,7 +4,9 @@
 
 ## 下載與使用
 
-下載檔案：[ATM10-8.2-TW-R7-SERVER-RESOURCEPACK-ATTRIBUTED.zip](./ATM10-8.2-TW-R7-SERVER-RESOURCEPACK-ATTRIBUTED.zip)
+**最新版本 R7.1**：[下載 ATM10-8.2-TW-R7.1-SERVER-RESOURCEPACK-ATTRIBUTED.zip](./ATM10-8.2-TW-R7.1-SERVER-RESOURCEPACK-ATTRIBUTED.zip)
+
+**舊版備份 R7**：[原版繁中資源包](./ATM10-8.2-TW-R7-SERVER-RESOURCEPACK-ATTRIBUTED.zip)（保留供回復）。
 
 伺服器透過 server.properties 的 resource-pack URL 和 resource-pack-sha1 提供加入時的下載提示。玩家仍須在個人遊戲「選項 → 語言」選擇繁體中文（台灣）（zh_tw）；伺服器無法強制改變個人語言設定。
 
@@ -13,7 +15,8 @@
 ## 相容與範圍
 
 - Minecraft 1.21.1／ATM10 8.2
-- R7 翻譯資源、654 份繁中 zh_tw 語言檔，部分模組書籍與可讀字型改善
+- R7.1 翻譯資源、654 份繁中 zh_tw 語言檔，部分模組書籍與可讀字型改善
+- R7.1 更正 Industrial Foregoing（工業先鋒）術語：Latex「乳膠」、Dry Rubber「乾橡膠」、Tiny Dry Rubber「小塊乾橡膠」，同步修正 Patchouli 手冊；遊戲配方不變
 - 仍可能有未翻譯或硬編碼的簡體中文與英文；不保證 100% 覆蓋
 
 ## 授權與來源
