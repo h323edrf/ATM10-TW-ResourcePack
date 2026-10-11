@@ -1,0 +1,17 @@
+{
+  "status": "R7_2_ZIP_QA_PASS_NOT_DEPLOYED",
+  "old_release": "ATM10-8.2-TW-R7.1-SERVER-RESOURCEPACK-ATTRIBUTED.zip",
+  "old_sha1": "6319bb14118ba3802fd3122a34f84c496025a7f1",
+  "new_release": "ATM10-8.2-TW-R7.2-SERVER-RESOURCEPACK-ATTRIBUTED.zip",
+  "new_sha1": "7c463a8d5e9bf4f989cee749f75f4f518616b253",
+  "new_sha256": "88336ebef132769247e67cdd2e873c1577b9b92d12531ded62ea54b3c01ec301",
+  "new_size": 17792907,
+  "old_files": 6798,
+  "new_files": 6799,
+  "all_prior_resources_unchanged": true,
+  "radiofm_translation_keys": 44,
+  "only_added_entry": "assets/radiofm/lang/zh_tw.json",
+  "other_modified_entry": "pack.mcmeta",
+  "production_server_properties_changed": false,
+  "source_translation": "D:\\AI\\Astra-Minecraft-Admin\\v0.5\\radiofm\\i18n_v07\\zh_tw.json"
+}
